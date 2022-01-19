@@ -1,0 +1,7 @@
+trip
+passport
+money
+medications
+documents
+phone
+clothes
